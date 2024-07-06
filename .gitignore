@@ -1,2 +1,4 @@
 **/.DS_Store
 .gitattributes
+model/.DS_Store
+*.pyc
